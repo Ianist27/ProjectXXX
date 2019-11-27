@@ -1,0 +1,2 @@
+C:\ProjectXXXX\FrontEnd\LoginAPI\LoginAPI\obj\Debug\LoginAPI.csprojAssemblyReference.cache
+C:\ProjectXXXX\FrontEnd\LoginAPI\LoginAPI\obj\Debug\LoginAPI.csproj.CoreCompileInputs.cache
